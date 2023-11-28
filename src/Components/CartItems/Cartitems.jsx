@@ -13,6 +13,7 @@ const Cartitems = () => {
         <p>Title</p>
         <p>Price</p>
         <p>Quantity</p>
+        <p>Total</p>
         <p>Remove</p>
       </div>
       <hr />
